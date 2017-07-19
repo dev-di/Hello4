@@ -2,7 +2,7 @@
 public class Hello {
 
 	public static void main(String [] args) {
-		System.out.println("Tjena igen!!!!!!");
+		System.out.println("Tjena!");
 	}
 	
 	public int add(int i1, int i2) {
