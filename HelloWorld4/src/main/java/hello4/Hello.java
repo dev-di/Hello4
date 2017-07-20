@@ -6,6 +6,6 @@ public class Hello {
 		System.out.println(hello.getMessage());
 	}
 	public String getMessage() {
-		return "Hello World!!!";
+		return "Hello World?";
 	}
 }
